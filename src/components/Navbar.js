@@ -1,10 +1,11 @@
-import React from 'react';
+import React from 'react'
 import Nav from 'react-bootstrap/Nav'
-import Navbar from 'react-bootstrap/Navbar';
+import Navbar from 'react-bootstrap/Navbar'
+import  Container from 'react-bootstrap/Container'
 
 import Ace from '../images/ace.png'
 import Github from '../images/github.png'
-import { Container } from 'react-bootstrap';
+import Discord from '../images/discord.png'
 
 export default function PageNavbar () {
     return (
@@ -26,6 +27,15 @@ export default function PageNavbar () {
                             <img
                                 alt=""
                                 src={Github}
+                                width="30"
+                                height="30"
+                                className="d-inline-block align-top"
+                            />{' '}
+                        </Nav.Link>
+                        <Nav.Link target="_blank" href="https://discord.gg/c8mFsRs">
+                            <img
+                                alt=""
+                                src={Discord}
                                 width="30"
                                 height="30"
                                 className="d-inline-block align-top"
