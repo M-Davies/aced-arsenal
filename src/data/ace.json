@@ -1,0 +1,830 @@
+{
+    "Atragmx"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_ATragMX" :   {
+                "ingame"    : "ATragMX",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Attachable"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_IR_Strobe_Item" :   {
+                "ingame"    : "IR strobe",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Ballistics"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_100Rnd_65x39_caseless_mag_Tracer_Dim" :   {
+                "ingame"    : "",
+                "type"      : "Magazine"
+            },
+            "ACE_200Rnd_65x39_cased_Box_Tracer_Dim" :   {
+                "ingame"    : "",
+                "type"      : "Magazine"
+            },
+            "ACE_30Rnd_65x39_caseless_mag_Tracer_Dim" :   {
+                "ingame"    : "",
+                "type"      : "Magazine"
+            },
+            "ACE_30Rnd_65x39_caseless_green_mag_Tracer_Dim" :   {
+                "ingame"    : "",
+                "type"      : "Magazine"
+            },
+            "ACE_30Rnd_556x45_Stanag_M995_AP_mag" :   {
+                "ingame"    : "5.56mm AP",
+                "type"      : "Magazine"
+            },
+            "ACE_30Rnd_556x45_Stanag_Mk262_mag" :   {
+                "ingame"    : "5.56mm Mk262",
+                "type"      : "Magazine"
+            },
+            "ACE_30Rnd_556x45_Stanag_Mk318_mag" :   {
+                "ingame"    : "5.56mm Mk318",
+                "type"      : "Magazine"
+            },
+            "ACE_30Rnd_556x45_Stanag_Tracer_Dim" :   {
+                "ingame"    : "5.56mm IR-DIM",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x51_Mag_Tracer" :   {
+                "ingame"    : "7.62mm Tracer",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x51_Mag_Tracer_Dim" :   {
+                "ingame"    : "7.62mm IR-DIM",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x51_Mag_SD" :   {
+                "ingame"    : "7.62mm SD",
+                "type"      : "Magazine"
+            },
+            "ACE_10Rnd_762x51_M118LR_Mag" :   {
+                "ingame"    : "7.62mm M118LR",
+                "type"      : "Magazine"
+            },
+            "ACE_10Rnd_762x51_Mk316_Mod_0_Mag" :   {
+                "ingame"    : "7.62mm Mk316",
+                "type"      : "Magazine"
+            },
+            "ACE_10Rnd_762x51_Mk319_Mod_0_Mag" :   {
+                "ingame"    : "7.62mm Mk319",
+                "type"      : "Magazine"
+            },
+            "ACE_10Rnd_762x51_M993_AP_Mag" :   {
+                "ingame"    : "7.62mm AP",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x51_M118LR_Mag" :   {
+                "ingame"    : "7.62mm M118LR",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x51_Mk316_Mod_0_Mag" :   {
+                "ingame"    : "7.62mm Mk316",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x51_Mk319_Mod_0_Mag" :   {
+                "ingame"    : "7.62mm Mk319",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x51_M993_AP_Mag" :   {
+                "ingame"    : "7.62mm AP",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x67_Mk248_Mod_0_Mag" :   {
+                "ingame"    : "7.62mm Mk248",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x67_Mk248_Mod_1_Mag" :   {
+                "ingame"    : "7.62mm Mk248",
+                "type"      : "Magazine"
+            },
+            "ACE_20Rnd_762x67_Berger_Hybrid_OTM_Mag" :   {
+                "ingame"    : "7.62mm OTM",
+                "type"      : "Magazine"
+            },
+            "ACE_30Rnd_65x47_Scenar_mag" :   {
+                "ingame"    : "6.5mm Lapua",
+                "type"      : "Magazine"
+            },
+            "ACE_30Rnd_65_Creedmor_mag" :   {
+                "ingame"    : "6.5mm CM",
+                "type"      : "Magazine"
+            },
+            "ACE_10Rnd_338_300gr_HPBT_Mag" :   {
+                "ingame"    : ".338 HPBT",
+                "type"      : "Magazine"
+            },
+            "ACE_10Rnd_338_API526_Mag" :   {
+                "ingame"    : ".338 AP",
+                "type"      : "Magazine"
+            },
+            "ACE_5Rnd_127x99_Mag" :   {
+                "ingame"    : "12.7mm",
+                "type"      : "Magazine"
+            },
+            "ACE_5Rnd_127x99_API_Mag" :   {
+                "ingame"    : "12.7mm API",
+                "type"      : "Magazine"
+            },
+            "ACE_5Rnd_127x99_AMAX_Mag" :   {
+                "ingame"    : "12.7mm",
+                "type"      : "Magazine"
+            },
+            "ACE_30Rnd_9x19_mag" :   {
+                "ingame"    : "9x19mm",
+                "type"      : "Magazine"
+            },
+            "ACE_16Rnd_9x19_mag" :   {
+                "ingame"    : "9x19mm",
+                "type"      : "Magazine"
+            },
+            "ACE_10Rnd_762x54_Tracer_mag" :   {
+                "ingame"    : "7.62mm",
+                "type"      : "Magazine"
+            }
+        }
+    },
+    "Captive"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_CableTie" :   {
+                "ingame"    : "Cable Tie",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Chemlights"   :   {
+        "added" : "3.7.0",
+        "classes"   : {
+            "ACE_Chemlight_HiOrange" :   {
+                "ingame"    : "Chemlight (Hi Orange)",
+                "type"      : "Throwable"
+            },
+            "ACE_Chemlight_HiRed" :   {
+                "ingame"    : "Chemlight (Hi Red)",
+                "type"      : "Throwable"
+            },
+            "ACE_Chemlight_HiYellow" :   {
+                "ingame"    : "Chemlight (Hi Yellow)",
+                "type"      : "Throwable"
+            },
+            "ACE_Chemlight_HiWhite" :   {
+                "ingame"    : "Chemlight (Hi White)",
+                "type"      : "Throwable"
+            },
+            "ACE_Chemlight_Orange" :   {
+                "ingame"    : "Chemlight (Orange)",
+                "type"      : "Throwable"
+            },
+            "ACE_Chemlight_White" :   {
+                "ingame"    : "Chemlight (White)",
+                "type"      : "Throwable"
+            },
+            "ACE_Chemlight_IR" :   {
+                "ingame"    : "Chemlight (IR)",
+                "type"      : "Throwable"
+            }
+        }
+    },
+    "Common"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_Banana" :   {
+                "ingame"    : "Banana",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "ConcertinaWire"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_ConcertinaWireCoil" :   {
+                "ingame"    : "Concertina Wire Coil",
+                "type"      : "ThingX"
+            },
+            "ACE_ConcertinaWire" :   {
+                "ingame"    : "Concertina Wire",
+                "type"      : "deployed concertina wire"
+            }
+        }
+    },
+    "DAGR"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_DAGR" :   {
+                "ingame"    : "DAGR",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Disposable"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_launch_NLAW_Used_F" :   {
+                "ingame"    : "used NLAW",
+                "type"      : "Weapon"
+            }
+        }
+    },
+    "Explosives"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_Cellphone" :   {
+                "ingame"    : "Cellphone",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_Clacker" :   {
+                "ingame"    : "M57 Firing Device",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_M26_Clacker" :   {
+                "ingame"    : "M26 Firing Device",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_DefusalKit" :   {
+                "ingame"    : "Defusal Kit",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_DeadManSwitch" :   {
+                "ingame"    : "Dead Man’s Switch",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Flashlights"   :   {
+        "added" : "3.3.0",
+        "classes"   : {
+            "ACE_Flashlight_MX991" :   {
+                "ingame"    : "Fulton MX-991",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_Flashlight_KSF1" :   {
+                "ingame"    : "KSF-1",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_Flashlight_XL50" :   {
+                "ingame"    : "Maglite XL50",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Grenades"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_HandFlare_White" :   {
+                "ingame"    : "M127A1 Hand Held Signal (White)",
+                "type"      : "Grenade"
+            },
+            "ACE_HandFlare_Red" :   {
+                "ingame"    : "M127A1 Hand Held Signal (Red)",
+                "type"      : "Grenade"
+            },
+            "ACE_HandFlare_Green" :   {
+                "ingame"    : "M127A1 Hand Held Signal (Green)",
+                "type"      : "Grenade"
+            },
+            "ACE_HandFlare_Yellow" :   {
+                "ingame"    : "M127A1 Hand Held Signal (Yellow)",
+                "type"      : "Grenade"
+            },
+            "ACE_M14" :   {
+                "ingame"    : "AN-M14 Incendiary Grenade",
+                "type"      : "Grenade"
+            },
+            "ACE_M84" :   {
+                "ingame"    : "M84 Stun Grenade",
+                "type"      : "Grenade"
+            }
+        }
+    },
+    "GunBag"   :   {
+        "added" : "3.6.0",
+        "classes"   : {
+            "ACE_gunbag" :   {
+                "ingame"    : "Gunbag",
+                "type"      : "Backpack"
+            },
+            "ACE_gunbag_Tan" :   {
+                "ingame"    : "Gunbag",
+                "type"      : "Backpack"
+            }
+        }
+    },
+    "Hearing"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_EarPlugs" :   {
+                "ingame"    : "Earplugs",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "HuntIR"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_HuntIR_monitor" :   {
+                "ingame"    : "HuntIR monitor",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_HuntIR_M203" :   {
+                "ingame"    : "HuntIR Round",
+                "type"      : "Grenade shell"
+            },
+            "ACE_HuntIR_Box" :   {
+                "ingame"    : "HuntIR Transport Box",
+                "type"      : "ammo box"
+            }
+        }
+    },
+    "Kestrel"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_Kestrel4500" :   {
+                "ingame"    : "Kestrel 4500NV",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "LaserPointers"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "acc_pointer_IR" :   {
+                "ingame"    : "Laser Pointer (red)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_acc_pointer_red" :   {
+                "ingame"    : "Laser Pointer (green)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_acc_pointer_green_IR" :   {
+                "ingame"    : "Laser Pointer (green)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_acc_pointer_green" :   {
+                "ingame"    : "Laser Pointer (green)",
+                "type"      : "Weapon accessory"
+            }
+        }
+    },
+    "Logistics"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_UAVBattery" :   {
+                "ingame"    : "UAV Battery",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_wirecutter" :   {
+                "ingame"    : "Wirecutter",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "MapTools"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_MapTools" :   {
+                "ingame"    : "Map Tools",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Medical"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_atropine" :   {
+                "ingame"    : "Atropin auto injector",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_fieldDressing" :   {
+                "ingame"    : "Bandage (Basic)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_elasticBandage" :   {
+                "ingame"    : "Bandage (Elastic)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_quikclot" :   {
+                "ingame"    : "Basic Field Dressing (QuikClot)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_bloodIV" :   {
+                "ingame"    : "Blood IV (1000ml)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_bloodIV_500" :   {
+                "ingame"    : "Blood IV (500ml)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_bloodIV_250" :   {
+                "ingame"    : "Blood IV (250ml)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_bodyBag" :   {
+                "ingame"    : "Bodybag",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_bodyBagObject" :   {
+                "ingame"    : "Bodybag (packed)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_epinephrine" :   {
+                "ingame"    : "Epinephrine auto injector",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_morphine" :   {
+                "ingame"    : "Morphine auto injector",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_packingBandage" :   {
+                "ingame"    : "Packing Bandage",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_personalAidKit" :   {
+                "ingame"    : "Personal Aid Kit",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_plasmaIV" :   {
+                "ingame"    : "Plasma IV (1000ml)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_plasmaIV_500" :   {
+                "ingame"    : "Plasma IV (500ml)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_plasmaIV_250" :   {
+                "ingame"    : "Plasma IV (250ml)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_salineIV" :   {
+                "ingame"    : "Saline IV (1000ml)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_salineIV_500" :   {
+                "ingame"    : "Saline IV (500ml)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_salineIV_250" :   {
+                "ingame"    : "Saline IV (250ml)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_surgicalKit" :   {
+                "ingame"    : "Surgical Kit",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_tourniquet" :   {
+                "ingame"    : "Tourniquet (CAT)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_medicalSupplyCrate" :   {
+                "ingame"    : "Simple ACE Medical Supply Crate",
+                "type"      : "ammo box"
+            },
+            "ACE_medicalSupplyCrate_advanced" :   {
+                "ingame"    : "Advanced ACE Medical Supply Crate",
+                "type"      : "ammo box"
+            }
+        }
+    },
+    "MicroDAGR"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_microDAGR" :   {
+                "ingame"    : "MicroDAGR GPS",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "MineDetector"   :   {
+        "added" : "3.6.0",
+        "classes"   : {
+            "ACE_VMH3" :   {
+                "ingame"    : "VMH3",
+                "type"      : "Pistol_Base_F"
+            },
+            "ACE_VMM3" :   {
+                "ingame"    : "VMM3",
+                "type"      : "Pistol_Base_F"
+            }
+        }
+    },
+    "MK6Mortar"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_RangeTable_82mm" :   {
+                "ingame"    : "82mm Rangetable",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_1Rnd_82mm_Mo_HE" :   {
+                "ingame"    : "82mm HE Round",
+                "type"      : "Magazine"
+            },
+            "ACE_1Rnd_82mm_Mo_Smoke" :   {
+                "ingame"    : "82mm Smoke Round",
+                "type"      : "Magazine"
+            },
+            "ACE_1Rnd_82mm_Mo_Illum" :   {
+                "ingame"    : "82mm Illumination Round",
+                "type"      : "Magazine"
+            },
+            "ACE_1Rnd_82mm_Mo_HE_Guided" :   {
+                "ingame"    : "82mm Guided HE Round",
+                "type"      : "Magazine"
+            },
+            "ACE_1Rnd_82mm_Mo_HE_LaserGuided" :   {
+                "ingame"    : "82mm Laser Guided HE Round",
+                "type"      : "Magazine"
+            }
+        }
+    },
+    "MX2A"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_MX2A" :   {
+                "ingame"    : "MX-2A",
+                "type"      : "Binocular"
+            }
+        }
+    },
+    "Nightvision"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_NVG_Gen1" :   {
+                "ingame"    : "NV Goggles (Gen1)",
+                "type"      : "NVG"
+            },
+            "ACE_NVG_Gen2" :   {
+                "ingame"    : "NV Goggles (Gen2)",
+                "type"      : "NVG"
+            },
+            "ACE_NVG_Gen4" :   {
+                "ingame"    : "NV Goggles (Gen4)",
+                "type"      : "NVG"
+            },
+            "ACE_NVG_Wide" :   {
+                "ingame"    : "NV Goggles (Wide)",
+                "type"      : "NVG"
+            }
+        }
+    },
+    "Optics"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_optic_Arco_2D" :   {
+                "ingame"    : "ARCO (2D)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_optic_Arco_PIP" :   {
+                "ingame"    : "ARCO (PIP)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_optic_LRPS_2D" :   {
+                "ingame"    : "LRPS (2D)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_optic_LRPS_PIP" :   {
+                "ingame"    : "LRPS (PIP)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_optic_SOS_2D" :   {
+                "ingame"    : "MOS (2D)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_optic_SOS_PIP" :   {
+                "ingame"    : "MOS (PIP)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_optic_MRCO_2D" :   {
+                "ingame"    : "MRCO (2D)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_optic_MRCO_PIP" :   {
+                "ingame"    : "MRCO (PIP)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_optic_Hamr_2D" :   {
+                "ingame"    : "RCO (2D)",
+                "type"      : "Weapon accessory"
+            },
+            "ACE_optic_Hamr_PIP" :   {
+                "ingame"    : "RCO (PIP)",
+                "type"      : "Weapon accessory"
+            }
+        }
+    },
+    "Overheating"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_SpareBarrel" :   {
+                "ingame"    : "Spare barrel",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Parachute"   :   {
+        "added" : "3.2.0",
+        "classes"   : {
+            "ACE_Altimeter" :   {
+                "ingame"    : "Altimeter Watch",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_NonSteerableParachute" :   {
+                "ingame"    : "Non-Steerable Parachute",
+                "type"      : "Backpack"
+            },
+            "ACE_ReserveParachute" :   {
+                "ingame"    : "Reserve Parachute",
+                "type"      : "Backpack"
+            }
+        }
+    },
+    "Rangecard"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_RangeCard" :   {
+                "ingame"    : "rangecard",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Repair"   :   {
+        "added" : "3.3.0",
+        "classes"   : {
+            "ACE_Track" :   {
+                "ingame"    : "Spare Track",
+                "type"      : "thingX"
+            },
+            "ACE_Wheel" :   {
+                "ingame"    : "Spare Wheel",
+                "type"      : "thingX"
+            }
+        }
+    },
+    "Respawn"   :   {
+        "added" : "3.2.0",
+        "classes"   : {
+            "ACE_Rallypoint_West" :   {
+                "ingame"    : "Rallypoint West",
+                "type"      : "FlagCarrier"
+            },
+            "ACE_Rallypoint_East" :   {
+                "ingame"    : "Rallypoint East",
+                "type"      : "FlagCarrier"
+            },
+            "ACE_Rallypoint_Independent" :   {
+                "ingame"    : "Rallypoint Independent",
+                "type"      : "FlagCarrier"
+            },
+            "ACE_Rallypoint_West_Base" :   {
+                "ingame"    : "Rallypoint West (Base)",
+                "type"      : "FlagCarrier"
+            },
+            "ACE_Rallypoint_East_Base" :   {
+                "ingame"    : "Rallypoint East (Base)",
+                "type"      : "FlagCarrier"
+            },
+            "ACE_Rallypoint_Independent_Base" :   {
+                "ingame"    : "Rallypoint Independent (Base)",
+                "type"      : "FlagCarrier"
+            }
+        }
+    },
+    "Sandbag"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_Sandbag_empty" :   {
+                "ingame"    : "Sandbag (empty)",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_SandbagObject" :   {
+                "ingame"    : "Sandbag",
+                "type"      : "thingX"
+            }
+        }
+    },
+    "Spotting Scope"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_SpottingScope" :   {
+                "ingame"    : "Spotting Scope",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_SpottingScopeObject" :   {
+                "ingame"    : "Spotting Scope (placed)",
+                "type"      : "StaticATWeapon"
+            }
+        }
+    },
+    "Tactical Ladder"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_TacticalLadder_Pack" :   {
+                "ingame"    : "Telescopic Ladder",
+                "type"      : "Backpack"
+            },
+            "ACE_Tactical_Ladder" :   {
+                "ingame"    : "Telescopic Ladder (placed)",
+                "type"      : "house"
+            }
+        }
+    },
+    "Tagging"   :   {
+        "added" : "3.5.0",
+        "classes"   : {
+            "ACE_SpraypaintBlack" :   {
+                "ingame"    : "Black spray paint",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_SpraypaintBlue" :   {
+                "ingame"    : "Blue spray paint",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_SpraypaintGreen" :   {
+                "ingame"    : "Green spray paint",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_SpraypaintRed" :   {
+                "ingame"    : "Red spray paint",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Trenches"   :   {
+        "added" : "3.5.0",
+        "classes"   : {
+            "ACE_EntrenchingTool" :   {
+                "ingame"    : "Entrenching Tool",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Tripod"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_Tripod" :   {
+                "ingame"    : "SSWT Kit",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_TripodObject" :   {
+                "ingame"    : "SSWT Kit (placed)",
+                "type"      : "ThingX"
+            }
+        }
+    },
+    "Vehicle Lock"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_key_master" :   {
+                "ingame"    : "Vehicle Key: Master",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_key_lockpick" :   {
+                "ingame"    : "Lockpick",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_key_west" :   {
+                "ingame"    : "Vehicle Key: West",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_key_east" :   {
+                "ingame"    : "Vehicle Key: East",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_key_indp" :   {
+                "ingame"    : "Vehicle Key: Independent",
+                "type"      : "ACE_ItemCore"
+            },
+            "ACE_key_civ" :   {
+                "ingame"    : "Vehicle Key: Civilian",
+                "type"      : "ACE_ItemCore"
+            }
+        }
+    },
+    "Vector"   :   {
+        "added" : "3.0.0",
+        "classes"   : {
+            "ACE_Vector" :   {
+                "ingame"    : "Vector 21",
+                "type"      : "Binoculars"
+            },
+            "ACE_VectorDay" :   {
+                "ingame"    : "Vector 21 (Day)",
+                "type"      : "Binoculars"
+            }
+        }
+    },
+    "Yardage 450"   :   {
+        "added" : "3.1.1",
+        "classes"   : {
+            "ACE_Yardage450" :   {
+                "ingame"    : "Yardage 450",
+                "type"      : "Binocular"
+            }
+        }
+    }
+}
