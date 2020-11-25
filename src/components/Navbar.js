@@ -1,7 +1,7 @@
 import React from 'react'
 import Nav from 'react-bootstrap/Nav'
 import Navbar from 'react-bootstrap/Navbar'
-import  Container from 'react-bootstrap/Container'
+import Container from 'react-bootstrap/Container'
 
 import Ace from '../images/ace.png'
 import Github from '../images/github.png'
